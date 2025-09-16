@@ -1,13 +1,15 @@
 # HR Analytics Dashboard
 
 ## Problem Statement
-Organizations face challenges in understanding their workforce dynamics due to fragmented HR data spread across multiple sources. Without a consolidated view, it becomes difficult for HR leaders to track employee demographics, monitor performance, evaluate training ROI, and align workforce expectations with business needs.
+HR leaders often struggle to get a unified view of workforce demographics, performance, and employee expectations because data is fragmented across multiple systems (employee records, recruitment, training, surveys).
 
-This lack of visibility leads to:
+This creates challenges such as:
 
-- Ineffective decision-making in hiring and retention.
-- Limited ability to identify performance issues and attrition drivers.
-- Difficulty in aligning employee expectations (salary, tenure, career growth) with organizational policies.  
+- Limited visibility into employee demographics (age, gender, education).
+- Difficulty in linking performance insights with workforce characteristics.
+- Lack of clarity on workforce experience and expectations (tenure, job titles, salary ranges).
+- Inability to proactively track hiring trends and attrition risks.
+- Without a consolidated view, HR decision-making becomes reactive rather than data-driven.
 
 ---
 
